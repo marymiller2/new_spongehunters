@@ -1,0 +1,26 @@
+name: "LA-Freshwater-Sponges"
+navbar:
+  title: "Louisiana Freshwater Sponge Hunters"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "The Hunt"
+      href: thehunt.html
+    - text: "Meet the Lab"
+      href: meetthelab.html
+    - text: "Outreach"
+      href: outreach.html
+    - text: "Presentations and Publications"
+      href: publications.html
+    - text: "Support the Hunt"
+      href: donate.html
+    - text: "About Freshwater Sponges"
+      href: about.html
+    - text: "Species"
+      href: sponge_id.html
+
+output:
+  html_document:
+    theme: yeti
+
+output_dir: "."

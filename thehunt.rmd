@@ -1,0 +1,89 @@
+---
+title: "The Hunt"
+---
+
+```{=html}
+<style type="text/css">
+h1.title {
+  font-size: 45px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+```
+In fall 2017, Dr. Miller was invited on a "sponge hunt" with a group of scientists through the [Community College Undergraduate Research Initiative](https://www.ccuri.us/) to collect sponges throughout the New England states. This led to a passion and the idea to implement freshwater sponge research at Baton Rouge Community College.
+
+The Louisiana Freshwater Sponge survey began in the spring 2018 with a group of BRCC students led by Dr. Miller. This began an enthusiastic journey!
+<br>
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VY47zAiFm5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<br>
+<br>
+In summer 2019, the "hunt" was in full affect. Dr. Miller led a group of students on a state wide survey. This trip lasted 4 days, and covered 35 parishes! They would spend the summer creating a course curriculum that would be used by BRCC students and for outreach.
+<br>
+<br>
+<center>
+![](sites.JPG){width=75%}
+</center>
+<br>
+<br>
+Summer 2021 is off to a great start! In late May 2021, Dr. Miller and a group of students spent 4 days collecting samples. They will spend the remaining summer surveying the southeastern parishes and sharing results in outreach activities!
+<br>
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/heKybHk-SN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<br>
+<br>
+
+The site map below is continuously updated with the sites surveyed in this study. Sites are further labeled with the observation of sponge presence or absence. The sites labeled as NA are those that were visited but surveying was not possible because of high water at the time. These sites will be revisited.
+
+<br>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(sf)
+library(rgdal)
+library(sp)
+library(readxl)
+library(ggspatial)
+library(ggmap)
+library(RColorBrewer)
+```
+
+```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE, fig.keep='none'}
+register_google(key="AIzaSyC62_TAASDWCV_I6e6k5uzNf5i-hCWeNb4")
+la<-c(-94.15,29,-89.5,33.15)
+la.map.h<-get_map(location=la,source="google",maptype="hybrid",crop=FALSE)
+sites<-read_xlsx("map_data_files/GPS Coordinates - Sites and Species.xlsx", sheet="All Sites")
+theme_set(theme_bw())
+(map2<-ggmap(la.map.h))
+```
+
+```{r map, echo=FALSE, warning=FALSE, fig.align='center', fig.asp=1.3}
+(map2<-map2+
+    geom_point(aes(x=Long,y=Lat, color=ID),data=sites,size=2)+
+    scale_color_brewer(palette = "YlOrRd",name="Sites")+
+    ylab("Latitude")+
+    xlab("Longitude")+
+    theme(panel.grid = element_blank())+
+    theme(legend.position = "top")+
+    theme(legend.title.align = 0.5)+
+    theme(legend.text = element_text(size=12,family="sans",face = "italic"),
+          legend.title = element_text(size=20,family="sans",face = "bold"),
+          axis.text = element_text(size=12,family="sans"),
+          axis.title= element_text(size=15,family="sans")))
+```
+
+
+
+
+

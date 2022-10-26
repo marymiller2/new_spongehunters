@@ -1,0 +1,34 @@
+---
+title: "Outreach"
+output: html_document
+---
+<style type="text/css">
+h1.title {
+  font-size: 45px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+
+**Previous Outreach Events**
+<br>
+<br>
+_BREC BIOBLITZ 2022_
+<br>
+<br>
+What is a Bioblitz?
+<br>
+A Bioblitz is an intense period of biological surveying in an attempt to record all of the living species within a designated area. Groups of scientists, naturalists and volunteers conduct an intensive field study over a continuous time period, usually 24 hours. BREC Conservation uses the Bioblitz data to focus future field surveys and gather information for our natural resource management plans. It allows BREC to have a better understanding of what is in their parks so they can appropriately manage and protect the land.
+<br>
+<br>
+<center>
+![](brec_bioblitz_2022.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: The Louisiana Freshwater Sponge Research Team sharing information about the Freshwater Sponge Project to the public at BREC BioBlitz 2022. </font>
+</center>
+<br>
+<br>
