@@ -15,19 +15,19 @@ background-color: #B9F2FE
 </center>
 <br>
 <br>
-```{r banner image,fig.align='center',out.width="100%",echo=FALSE,out.extra='style="background-color: #00637a; padding:18px; display: inline-block;"'}
-knitr::include_graphics("banner1.jpg")
-```  
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3N1WKr-Rrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 <br>
 <br> 
 Welcome to the Louisiana Freshwater Sponge Hunters page! 
 <br>
 <br>
-This page is currently under construction and we are updating it often!
+This is a longitudinal study; data on this page are updated continuously so check back often!
 <br>
 <br>
 The Louisiana Freshwater Sponge Project was started by Dr. Mary Miller and a group
-of interns through Baton Rouge Community College, in the Summer of 2019. The project was a follow up from the original survey that was conducted by [Dr. Michael Poirrier in 1968](https://core.ac.uk/download/pdf/217384297.pdf). 
+of interns through Baton Rouge Community College, in the Summer of 2019. The project was a follow up from the original survey that was conducted by [Dr. Michael Poirrier in 1969](https://core.ac.uk/download/pdf/217384297.pdf). 
 <br>
 <br>
 **Aims of the Project:**

@@ -13,7 +13,7 @@
 
 <title>Presentations and Publications</title>
 
-<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -141,15 +141,11 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark the anchor link active (and if it's in a dropdown, also mark that active)
-  var dropdown = menuAnchor.closest('li.dropdown');
-  if (window.bootstrap) { // Bootstrap 4+
-    menuAnchor.addClass('active');
-    dropdown.find('> .dropdown-toggle').addClass('active');
-  } else { // Bootstrap 3
-    menuAnchor.parent().addClass('active');
-    dropdown.addClass('active');
-  }
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -178,8 +174,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,9 +183,16 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
+  content: "&#xe258;";
   border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -302,6 +305,19 @@ about the Freshwater Sponge Project to other BRCC students. </font>
 <p><br> <br></p>
 <p><strong>Presentations:</strong> <br> <br></p>
 <center>
+<img src="world_sponge_conference_2022.jpg" style="width:75.0%" />
+</center>
+<center>
+<font size="1"> Pictured above: Abhi Mehrotra and Dr. Miller presenting
+about the Freshwater Sponge Project at the World Sponge Conference 2022
+in Leiden, Netherlands. </font>
+</center>
+<p><br> <br> Miller, M.G; Cooke, Kenzie; Mehrotra, Abhi; and Archer,
+Stephanie K. <em>Louisiana Freshwater Sponge Project: Documenting
+Louisiana’s freshwater sponge diversity through undergraduate research
+experiences</em>, World Sponge Conference, Leiden, Netherlands, 2022.
+<br> <br></p>
+<center>
 <img src="lsu_discover_day_2022.jpg" style="width:75.0%" />
 </center>
 <center>
@@ -309,14 +325,14 @@ about the Freshwater Sponge Project to other BRCC students. </font>
 Team presenting posters about the Freshwater Sponge Project at LSU
 Discover Day 2022. </font>
 </center>
-<p><br> <br> Glover, Tarry, White, Kendall, Lee, Brittany, Mehrotra,
-Abhi, and Miller, M.G. <em>Driving Water Parameters of the three most
+<p><br> <br> Glover, Tarry; White, Kendall; Lee, Brittany; Mehrotra,
+Abhi; and Miller, M.G. <em>Driving Water Parameters of the three most
 abundant Freshwater Sponge Species in Louisiana</em>, Louisiana State
-University, Discover Day, 2022. <br> <br> Henriquez, Axel, Dimaggio,
-Lisa, Bieller, Amori, Cooke, Kenzie, and Miller, M.G. <em>Can Sediment
+University, Discover Day, 2022. <br> <br> Henriquez, Axel; DiMaggio,
+Lisa; Bieller, Amori; Cooke, Kenzie; and Miller, M.G. <em>Can Sediment
 Analysis be used to Further Describe Species Diversity of Freshwater
 Sponges?</em>, Louisiana State University, Discover Day, 2022. <br> <br>
-Skelton, Raven, Collins, Makayla, Mehrotra, Abhi, and Miller, M.G.
+Skelton, Raven; Collins, Makayla; Mehrotra, Abhi; and Miller, M.G.
 <em>Understanding preferred substrates of Louisiana Freshwater
 Sponges</em>, Louisiana State University, Discover Day, 2022. <br>
 <br></p>
@@ -328,25 +344,25 @@ Sponges</em>, Louisiana State University, Discover Day, 2022. <br>
 presenting their poster at the 2022 Annual Conference for the
 Association of Southeastern Biologists (ASB). </font>
 </center>
-<br> <br> Cooke, Kenzie, Mehrotra, Abhi, and Miller, M.G. <em>The
+<br> <br> Cooke, Kenzie; Mehrotra, Abhi; and Miller, M.G. <em>The
 Louisiana Freshwater Sponge Project: Examining Changes in Species
 Diversity through a Comparison of two Ecological Studies</em>,
 Association of Southeastern Biologists, Annual Conference Presentation,
-2022. <br> <br> Miller, M.G., <em>Building a CURE for Your Monotonous
+2022. <br> <br> Miller, M.G. <em>Building a CURE for Your Monotonous
 Labs</em>, Louisiana Academy of Sciences, Peer Lecture Presentation,
-2021. <br> <br> Boone, C., <em>Inducing Spicule Malformations Within
-Freshwater Sponges by Relocation</em>, Association of Southeastern
-Biologists, Annual Conference Presentation, 2021. <br> <br> Viator, A.
-and Elsa Arroyo, <em>Identifying Freshwater Sponges Along with Creating
-a New Database</em>, Association of Southeastern Biologists, Annual
-Conference Presentation, 2021. <br> <br> Vuong, C. and M. Heyer,
-<em>Defining Louisiana Freshwater Sponge diversity with COX1-R1 and
-COX1-D2 Barcoding: A Database Development Study for Classroom
-Curriculum</em>, Association of Southeastern Biologists, Annual
-Conference Presentation, 2021. <br> <br> Miller, M.G., <em>The Louisiana
-Freshwater Sponge Survey Project: Identifying, Characterizing, and
-Building a Molecular Database</em>, LUMCON Scientific Talks, 2020. <br>
-<br>
+2021. <br> <br> Boone, Cristina. <em>Inducing Spicule Malformations
+Within Freshwater Sponges by Relocation</em>, Association of
+Southeastern Biologists, Annual Conference Presentation, 2021. <br> <br>
+Viator, Ariel and Arroyo, Elsa. <em>Identifying Freshwater Sponges Along
+with Creating a New Database</em>, Association of Southeastern
+Biologists, Annual Conference Presentation, 2021. <br> <br> Vuong, Chau
+and Heyer, Matthew. <em>Defining Louisiana Freshwater Sponge diversity
+with COX1-R1 and COX1-D2 Barcoding: A Database Development Study for
+Classroom Curriculum</em>, Association of Southeastern Biologists,
+Annual Conference Presentation, 2021. <br> <br> Miller, M.G. <em>The
+Louisiana Freshwater Sponge Survey Project: Identifying, Characterizing,
+and Building a Molecular Database</em>, LUMCON Scientific Talks, 2020.
+<br> <br>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKFM70051Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>

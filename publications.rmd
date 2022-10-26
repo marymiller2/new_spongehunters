@@ -26,6 +26,19 @@ background-color: #B9F2FE
 <br>
 
 <center>
+![](world_sponge_conference_2022.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: Mentor Abhi Mehrotra and PI Dr. Miller presenting a poster about the Freshwater Sponge Project at the World Sponge Conference 2022 in Leiden, Netherlands. </font>
+</center>
+
+<br>
+<br>
+Miller, M.G; Cooke, Kenzie; Mehrotra, Abhi; and Archer, Stephanie K. _Louisiana Freshwater Sponge Project: Documenting Louisiana’s freshwater sponge diversity through undergraduate research experiences_, World Sponge Conference, Leiden, Netherlands, 2022.
+<br>
+<br>
+
+<center>
 ![](lsu_discover_day_2022.jpg){width=75%}
 </center>
 <center>
@@ -34,13 +47,13 @@ background-color: #B9F2FE
 
 <br>
 <br>
-Glover, Tarry, White, Kendall, Lee, Brittany, Mehrotra, Abhi, and Miller, M.G. _Driving Water Parameters of the three most abundant Freshwater Sponge Species in Louisiana_, Louisiana State University, Discover Day, 2022.
+Glover, Tarry; White, Kendall; Lee, Brittany; Mehrotra, Abhi; and Miller, M.G. _Driving Water Parameters of the three most abundant Freshwater Sponge Species in Louisiana_, Louisiana State University, Discover Day, 2022.
 <br>
 <br>
-Henriquez, Axel, Dimaggio, Lisa, Bieller, Amori, Cooke, Kenzie, and Miller, M.G. _Can Sediment Analysis be used to Further Describe Species Diversity of Freshwater Sponges?_, Louisiana State University, Discover Day, 2022.
+Henriquez, Axel; DiMaggio, Lisa; Bieller, Amori; Cooke, Kenzie; and Miller, M.G. _Can Sediment Analysis be used to Further Describe Species Diversity of Freshwater Sponges?_, Louisiana State University, Discover Day, 2022.
 <br>
 <br>
-Skelton, Raven, Collins, Makayla, Mehrotra, Abhi, and Miller, M.G. _Understanding preferred substrates of Louisiana Freshwater Sponges_, Louisiana State University, Discover Day, 2022.
+Skelton, Raven; Collins, Makayla; Mehrotra, Abhi; and Miller, M.G. _Understanding preferred substrates of Louisiana Freshwater Sponges_, Louisiana State University, Discover Day, 2022.
 <br>
 <br>
 
@@ -53,22 +66,22 @@ Skelton, Raven, Collins, Makayla, Mehrotra, Abhi, and Miller, M.G. _Understandin
 
 <br>
 <br>
-Cooke, Kenzie, Mehrotra, Abhi, and Miller, M.G. _The Louisiana Freshwater Sponge Project: Examining Changes in Species Diversity through a Comparison of two Ecological Studies_, Association of Southeastern Biologists, Annual Conference Presentation, 2022.
+Cooke, Kenzie; Mehrotra, Abhi; and Miller, M.G. _The Louisiana Freshwater Sponge Project: Examining Changes in Species Diversity through a Comparison of two Ecological Studies_, Association of Southeastern Biologists, Annual Conference Presentation, 2022.
 <br>
 <br>
-Miller, M.G., _Building a CURE for Your Monotonous Labs_, Louisiana Academy of Sciences, Peer Lecture Presentation, 2021.
+Miller, M.G. _Building a CURE for Your Monotonous Labs_, Louisiana Academy of Sciences, Peer Lecture Presentation, 2021.
 <br>
 <br>
-Boone, C., _Inducing Spicule Malformations Within Freshwater Sponges by Relocation_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+Boone, Cristina. _Inducing Spicule Malformations Within Freshwater Sponges by Relocation_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
 <br>
 <br>
-Viator, A. and Elsa Arroyo, _Identifying Freshwater Sponges Along with Creating a New Database_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+Viator, Ariel and Arroyo, Elsa. _Identifying Freshwater Sponges Along with Creating a New Database_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
 <br>
 <br>
-Vuong, C. and M. Heyer, _Defining Louisiana Freshwater Sponge diversity with COX1-R1 and COX1-D2 Barcoding: A Database Development Study for Classroom Curriculum_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+Vuong, Chau and Heyer, Matthew. _Defining Louisiana Freshwater Sponge diversity with COX1-R1 and COX1-D2 Barcoding: A Database Development Study for Classroom Curriculum_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
 <br>
 <br>
-Miller, M.G., _The Louisiana Freshwater Sponge Survey Project: Identifying, Characterizing, and Building a Molecular Database_, LUMCON Scientific Talks, 2020.
+Miller, M.G. _The Louisiana Freshwater Sponge Survey Project: Identifying, Characterizing, and Building a Molecular Database_, LUMCON Scientific Talks, 2020.
 <br>
 <br>
 <center>
