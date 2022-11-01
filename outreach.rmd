@@ -1,5 +1,5 @@
 ---
-title: "Outreach"
+title: "Outreach and Volunteering"
 output: html_document
 ---
 <style type="text/css">
@@ -29,6 +29,26 @@ A Bioblitz is an intense period of biological surveying in an attempt to record 
 </center>
 <center>
 <font size="1"> Pictured above: The Louisiana Freshwater Sponge Research Team sharing information about the Freshwater Sponge Project to the public at BREC BioBlitz 2022. </font>
+</center>
+<br>
+<br>
+
+**Previous Volunteering Events**
+<br>
+<br>
+_Pearl River Clean Sweep 2022_
+<br>
+<br>
+What is the Pearl River Clean Sweep?
+<br>
+Cleanup teams will be deployed along the Pearl River Watershed from its Headwaters in Nanih Waiya, Mississippi, downriver through the Ross Barnett Reservoir, along the border of Mississippi and Louisiana, all the way to Pearlington on the Gulf Coast. This event will celebrate drinkable, swimmable, fishable water in 15 counties, 2 parishes, 2 states and over 490 miles of beautiful river! In the past 5 years, this event has engaged more than 3,400 volunteers and removed over 139,000 pounds of trash from the Pearl River watershed!
+<br>
+<br>
+<center>
+![](pearl_river_clean_sweep_2022.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: The Louisiana Freshwater Sponge Research Team participating in the Pearl River Clean Sweep 2022. </font>
 </center>
 <br>
 <br>

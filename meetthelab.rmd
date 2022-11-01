@@ -51,16 +51,6 @@ Spring 2022 -
 
 <br>
 <br>
-![](hayley_howard.jpeg){width=25%}
-<br>
-Hayley Howard
-<br>
-Summer 2022 - 
-<br>
-"I am currently majoring in natural resource ecology and management and my role in the Louisiana Freshwater Sponge Project is water analysis. After completing my Associates of Science Transfer degree, I hope to attend LSU to continue my education in wildlife ecology. A fun fact about me is that I have been a vegetarian for about 14 years now."
-
-<br>
-<br>
 ![](lisa_dimaggio.jpeg){width=25%}
 <br>
 Lisa DiMaggio
@@ -71,6 +61,16 @@ Spring 2022 -
 
 <br>
 <br>
+![](jaylon_francois.jpg){width=25%}
+<br>
+Jaylon Francois
+<br>
+Fall 2022 -
+<br>
+"I am currently pursuing an Associate of Science In Surgical Technology (AS) at BRCC. After I graduate in the winter of 2023, I plan to finish my studies at Southern University and achieve my Bachelor of Science in Nursing (BSN) with a minor in French and African American Studies. I plan to work in an HIV clinic and advocate for my city by eradicating and educating the community about HIV/AIDS. Later on, I plan to attend graduate school to get my MSN in Nursing Practice and Doctorate in Nursing Practice. My job in the lab is mostly spicule analysis, preparation, and data entry. A fun fact about me is that I want to travel the world and collect things that I pick up from my adventures."
+
+<br>
+<br>
 ![](tarry_glover.jpg){width=25%}
 <br>
 Tarry Glover
@@ -78,6 +78,16 @@ Tarry Glover
 Summer 2020 -
 <br>
 "My name is Tarry Glover. I joined the Freshwater Sponge Project in 2020. I am responsible for molecular work which includes DNA isolation and PCR amplification. I also work with MEGA-X software and the NCBI database After I graduate, I plan on transferring to FranU and completing the medical laboratory science program."
+
+<br>
+<br>
+![](hayley_howard.jpeg){width=25%}
+<br>
+Hayley Howard
+<br>
+Summer 2022 - 
+<br>
+"I am currently majoring in natural resource ecology and management and my role in the Louisiana Freshwater Sponge Project is water analysis. After completing my Associates of Science Transfer degree, I hope to attend LSU to continue my education in wildlife ecology. A fun fact about me is that I have been a vegetarian for about 14 years now."
 
 <br>
 <br>
