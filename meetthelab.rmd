@@ -16,10 +16,10 @@ The Louisiana Freshwater Sponge Research Team consists of biology, computer scie
 <br>
 <br>
 <center>
-![](fieldwork_group.jpg){width=75%}
+![](fieldwork_group_updated.jpg){width=50%}
 </center>
 <center>
-<font size="1"> Pictured above (from left to right): Raven Skelton, Tarry Glover, Samuel Joseph Johnson, Abhi Mehrotra, and Axel  Henriquez. </font>
+<font size="1"> Pictured above (from left to right): Hayley Howard, Dr. Stephanie Archer (LUMCON), Abhi Mehrotra, and Tarry Glover. </font>
 </center>
 <br>
 <br>
@@ -40,7 +40,7 @@ Summer 2021 -
 **Undergraduate Student Researchers:**
 <br>
 <br>
-![](elyzabeth_ardoin.jpg){width=25%}
+![](elyzabeth_ardoin.jpeg){width=25%}
 <br>
 <br>
 Elyzabeth Ardoin
@@ -72,16 +72,6 @@ Spring 2022 -
 
 <br>
 <br>
-![](jaylon_francois.jpg){width=25%}
-<br>
-Jaylon Francois
-<br>
-Fall 2022 -
-<br>
-"I am currently pursuing an Associate of Science In Surgical Technology (AS) at BRCC. After I graduate in the winter of 2023, I plan to finish my studies at Southern University and achieve my Bachelor of Science in Nursing (BSN) with a minor in French and African American Studies. I plan to work in an HIV clinic and advocate for my city by eradicating and educating the community about HIV/AIDS. Later on, I plan to attend graduate school to get my MSN in Nursing Practice and Doctorate in Nursing Practice. My job in the lab is mostly spicule analysis, preparation, and data entry. A fun fact about me is that I want to travel the world and collect things that I pick up from my adventures."
-
-<br>
-<br>
 ![](tarry_glover.jpg){width=25%}
 <br>
 Tarry Glover
@@ -99,6 +89,18 @@ Hayley Howard
 Summer 2022 - 
 <br>
 "I am currently majoring in natural resource ecology and management and my role in the Louisiana Freshwater Sponge Project is water analysis. After completing my Associates of Science Transfer degree, I hope to attend LSU to continue my education in wildlife ecology. A fun fact about me is that I have been a vegetarian for about 14 years now."
+<br>
+<br>
+
+<br>
+<br>
+![](jada_latore.jpg){width=25%}
+<br>
+Jada Latore
+<br>
+Spring 2023 - 
+<br>
+"Hello, my name is Jada Latore. I am attending Baton Rouge Community College, and this is my first year here. My major is general science/environmental science. I work in the lab with a primary focus on sediment analysis. After my two years at BRCC, I will attend Alcorn University to finish the rest of my years in college. A fun fact about me is that I play basketball for the Lady Bears (BRCC)."
 <br>
 <br>
 
@@ -123,6 +125,8 @@ Arroyo, Elsa: Summer 2020 - Summer 2021
 Boone, Cristina: Summer 2020 - Spring 2021
 <br>
 Ciarlini, Duda: Fall 2021
+<br>
+Francois, Jaylon: Fall 2022
 <br>
 Henriquez, Axel: Spring 2022 - Summer 2022
 <br>
