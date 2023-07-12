@@ -11,14 +11,13 @@ body {
 background-color: #B9F2FE
 }
 </style>
-
+<br>
 <center>
 ![](abhi_mehrotra_brcc_presentation.jpg){width=75%}
 </center>
 <center>
 <font size="1"> Pictured above: Mentor Abhi Mehrotra sharing information about the Freshwater Sponge Project to other BRCC students. </font>
 </center>
-<br>
 <br>
 
 **Presentations:** 
