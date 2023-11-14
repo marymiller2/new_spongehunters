@@ -1,0 +1,72 @@
+---
+title: "Donations and Support"
+output: html_document
+---
+<style type="text/css">
+h1.title {
+  font-size: 45px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+We are currently seeking funds to support BRCC students and local high school students
+with internships along their journey of exploring the world of freshwater sponges. Funds will be used to support students through research stipends, student travel to sites for collections and presentations at conferences, and consumables needed for the project. Every penny donated will go to support students working on this project!
+<br>
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bYqfW42UKWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<br>
+<br>
+All donations are accepted through the BRCC foundation. Please contact Dr. Miller at millerm2@mybrcc.edu if you have questions about donations, you are welcome to call her at 225-216-8528.
+
+Thank you to our current personal supporters:
+<br>
+Michelle Watkins
+<br>
+Sondra LeBreton
+<br>
+<br>
+<br>
+Thank you to our current corporation sponsors:
+<br>
+![](honey.jpg){width=25%}
+<br>
+[Honey Island Kayak Tours](https://www.honeyislandkayaktours.com/)
+<br>
+<br>
+
+**Supporting Grants:**
+<br>
+<br>
+_Current_
+<br>
+<br>
+![](nsf.jpg){width=25%}
+<br>
+NSF Funding Opportunity PD 21-7980. The Louisiana Freshwater Sponge Project: Developing an Environmental Science Undergraduate Research Pathway from Degree Entry to Workforce and Graduation Award # 2329630 (10/2023 - 9/2028)
+<br>
+<br>
+
+![](board_of_regents.jpg){width=25%}
+<br>
+BoRSF Department Enhancement Grant # ENH-DE-01 (07/2023 - 06/2024)
+<br>
+<br>
+_Previous_
+<br>
+<br>
+![](capital_one.jpg){width=25%}
+<br>
+Capital One STEM for Good Grant
+<br>
+<br>
+![](board_of_education.jpg){width=25%}
+<br>
+MSEIP Department of Education Grant # P120A180060
+<br>
+<br>
+

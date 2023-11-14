@@ -1,0 +1,159 @@
+---
+title: "Presentations and Publications"
+output: html_document
+---
+<style type="text/css">
+h1.title {
+  font-size: 45px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+<center>
+![](abhi_mehrotra_brcc_presentation.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: Mentor Abhi Mehrotra sharing information about the Freshwater Sponge Project to other BRCC students. </font>
+</center>
+<br>
+
+**Presentations:** 
+<br>
+<br>
+
+<center>
+![](ull_undergraduate_research_conference_2023.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: The Louisiana Freshwater Sponge Research Team presenting posters at the Undergraduate Research Conference (URC) 2023 at UL Lafayette. </font>
+</center>
+<br>
+<br>
+
+DiMaggio, Lisa; Mehrotra, Abhi; Archer, Stephanie K.; and Miller, M.G. _Documenting Louisiana's freshwater sponge diversity through undergraduate research experiences_, Oral Presentation, University of Louisiana at Lafayette, Undergraduate Research Conference (URC), 2023.
+<br>
+<br>
+DiMaggio, Lisa; Howard, Hayley; Marvel, Destiny; and Miller, M.G. _Can Sediment Analysis be used to Further Describe Species Richness of Freshwater Sponges?_, University of Louisiana at Lafayette, Undergraduate Research Conference (URC), 2023.
+<br>
+<br>
+Glover, Tarry; Palmer, Tamieka; Dawes, Rose; Mehrotra, Abhi; and Miller, M.G. _The Louisiana Freshwater Sponge Project: Examining Changes in Species Richness through a Comparison of two Ecological Studies_, University of Louisiana at Lafayette, Undergraduate Research Conference (URC), 2023.
+<br>
+<br>
+Gemeinhardt, Sydney; Motsenbocker, Cameron; and Miller, M.G. _Understanding Preferred Substrates of Louisiana Freshwater Sponges_,  University of Louisiana at Lafayette, Undergraduate Research Conference (URC), 2023.
+<br>
+<br>
+
+
+<center>
+![](lsu_discover_day_2023.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: The Louisiana Freshwater Sponge Research Team presenting posters at LSU Discover Day Undergraduate Research and Creativity Conference 2023. </font>
+</center>
+<br>
+<br>
+
+Bieller, Amori; Mehrotra, Abhi; and Miller, M.G. _Understanding Preferred Substrates of Louisiana Freshwater Sponges_, Louisiana State University, LSU Discover Day Undergraduate Research and Creativity Conference, 2023.
+<br>
+<br>
+DiMaggio, Lisa; Howard, Hayley; Latore, Jada; and Miller, M.G. _Can Sediment Analysis be used to Further Describe Species Richness of Freshwater Sponges?_, Louisiana State University, LSU Discover Day Undergraduate Research and Creativity Conference, 2023.
+<br>
+<br>
+Mehrotra, Abhi; Ardoin, Elyzabeth; Cooke, Kenzie; Glover, Tarry; and Miller, M.G. _The Louisiana Freshwater Sponge Project: Examining Changes in Species Diversity through a Comparison of two Ecological Studies_, Louisiana State University, LSU Discover Day Undergraduate Research and Creativity Conference, 2023.
+<br>
+<br>
+
+<center>
+![](las_49th_annual_conference_2023.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: The Louisiana Freshwater Sponge Research Team presenting posters at the Louisiana Academy of Sciences 49th Annual Conference. </font>
+</center>
+<br>
+<br>
+
+Bieller, Amori; Mehrotra, Abhi; and Miller, M.G. _Understanding Preferred Substrates of Louisiana Freshwater Sponges_, The Louisiana Academy of Sciences, 49th Annual Conference Presentation, 2023.
+<br>
+<br>
+DiMaggio, Lisa; Howard, Hayley; and Miller, M.G. _Can Sediment Analysis be used to Further Describe Species Richness of Freshwater Sponges?_, The Louisiana Academy of Sciences, 49th Annual Conference Presentation, 2023.
+<br>
+<br>
+Mehrotra, Abhi; Cooke, Kenzie; Glover, Tarry; and Miller, M.G. _The Louisiana Freshwater Sponge Project: Examining Changes in Species Diversity through a Comparison of two Ecological Studies_, The Louisiana Academy of Sciences, 49th Annual Conference Presentation, 2023.
+<br>
+<br>
+
+<center>
+![](world_sponge_conference_2022.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: Mentor Abhi Mehrotra and PI Dr. Miller presenting a poster at the World Sponge Conference 2022 in Leiden, Netherlands. </font>
+</center>
+
+<br>
+<br>
+Miller, M.G; Cooke, Kenzie; Mehrotra, Abhi; and Archer, Stephanie K. _Louisiana Freshwater Sponge Project: Documenting Louisiana’s freshwater sponge diversity through undergraduate research experiences_, World Sponge Conference, Leiden, Netherlands, 2022.
+<br>
+<br>
+
+<center>
+![](lsu_discover_day_2022.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: The Louisiana Freshwater Sponge Research Team presenting posters at LSU Discover Day Undergraduate Research and Creativity Conference 2022. </font>
+</center>
+
+<br>
+<br>
+Glover, Tarry; White, Kendall; Lee, Brittany; Mehrotra, Abhi; and Miller, M.G. _Driving Water Parameters of the three most abundant Freshwater Sponge Species in Louisiana_, Louisiana State University, LSU Discover Day Undergraduate Research and Creativity Conference, 2022.
+<br>
+<br>
+Henriquez, Axel; DiMaggio, Lisa; Bieller, Amori; Cooke, Kenzie; and Miller, M.G. _Can Sediment Analysis be used to Further Describe Species Diversity of Freshwater Sponges?_, Louisiana State University, LSU Discover Day Undergraduate Research and Creativity Conference, 2022.
+<br>
+<br>
+Skelton, Raven; Collins, Makayla; Mehrotra, Abhi; and Miller, M.G. _Understanding preferred substrates of Louisiana Freshwater Sponges_, Louisiana State University, LSU Discover Day Undergraduate Research and Creativity Conference, 2022.
+<br>
+<br>
+
+<center>
+![](asb_2022.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: Mentors Kenzie Cooke and Abhi Mehrotra presenting their poster at the 2022 Annual Conference for the Association of Southeastern Biologists (ASB). </font>
+</center>
+
+<br>
+<br>
+Cooke, Kenzie; Mehrotra, Abhi; and Miller, M.G. _The Louisiana Freshwater Sponge Project: Examining Changes in Species Diversity through a Comparison of two Ecological Studies_, Association of Southeastern Biologists, Annual Conference Presentation, 2022.
+<br>
+<br>
+Miller, M.G. _Building a CURE for Your Monotonous Labs_, Louisiana Academy of Sciences, Peer Lecture Presentation, 2021.
+<br>
+<br>
+Boone, Cristina. _Inducing Spicule Malformations Within Freshwater Sponges by Relocation_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+<br>
+<br>
+Viator, Ariel and Arroyo, Elsa. _Identifying Freshwater Sponges Along with Creating a New Database_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+<br>
+<br>
+Vuong, Chau and Heyer, Matthew. _Defining Louisiana Freshwater Sponge diversity with COX1-R1 and COX1-D2 Barcoding: A Database Development Study for Classroom Curriculum_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+<br>
+<br>
+Miller, M.G. _The Louisiana Freshwater Sponge Survey Project: Identifying, Characterizing, and Building a Molecular Database_, LUMCON Scientific Talks, 2020.
+<br>
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKFM70051Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<br>
+<br>
+Miller, M.G., _Changing the Curriculum to Involve Students in Research Activities_, Oral Presentation, Louisiana Science Teachers Association, Annual Conference Presentation, 2019.
+<br>
+<br>
+
+**Publications:**
+<br>
+<br>
+Exciting publications are coming soon!! Please check back.
