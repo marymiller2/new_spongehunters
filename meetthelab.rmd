@@ -63,7 +63,7 @@ Abhi Mehrotra
 <br>
 Summer 2021 -
 <br>
-"I am the first and only computer science major to have received the amazing opportunity to be part of The Louisiana Freshwater Sponge Project! My main responsibilities in the lab include webmaster, drone operator, data management/analysis, and fieldwork. I also help to oversee the other aspects of the research project. My goals are to graduate with an Associate of Science in Computer Science degree from BRCC and pursue a Bachelor of Science in Coastal Environmental Science degree with a concentration in data science plus a minor in biological sciences at Louisiana State University."
+"I feel incredibly fortunate to be a part of The Louisiana Freshwater Sponge Project as the first computer science major. In this role, I am responsible for a variety of tasks including managing the project's website, operating drones, analyzing and managing data, and conducting fieldwork. Additionally, I assist with overseeing other aspects of the research project. My long-term objective is to obtain an Associate of Science (AS) degree in Computer Science and a Louisiana Transfer, Associate of Science (ASLT) degree with a focus on biological sciences from BRCC. Afterward, I plan to pursue a Bachelor of Science (BS) degree in Coastal Environmental Science with a specialization in data science and a minor in biological sciences at Louisiana State University."
 <br>
 <br>
 
@@ -110,16 +110,23 @@ Summer 2023 -
 <br>
 <br>
 
+**Administrative Assistant:**
+<br>
+<br>
+![](camille_kolniak.jpg){width=25%}
+<br>
+Camille Kolniak
+<br>
+Spring 2024 -
+<br>
+"Hello! My name is Camille Kolniak and I'm at BRCC studying Nursing and General Science. My role in the lab consists of administrative duties and lab assisting. I love to spend time with family, as well as my pet bird who can talk. My career goals in life are to work in operating rooms as a surgical nurse and go back to school to get my bachelor's degree in Nursing. At some point during my career, I plan to study Anesthesiology to expand my knowledge."
+<br>
+<br>
+
 **The Program for Successful Employment (PSE) Interns:** The Program for Successful Employment (PSE) is a two-year vocational training program for adults with autism and/or other cognitive differences. The program combines academic and job skills training with externship opportunities in regional businesses. [Click here](https://www.mybrcc.edu/pse/index.php) to learn more information about the program.
 <br>
 <br>
-![](lauren_fuselier.jpeg){width=25%}
-<br>
-Lauren Fuselier
-<br>
-Summer 2023 -
-<br>
-"My name is Lauren Fuselier. I am currently attending the PSE (Program for Successful Employment) at Baton Rouge Community College. This is my first year here working with the project. I enjoy working here and I hope to work in a lab sometime in the future."
+Currently recruiting for Summer 2024.
 <br>
 <br>
 
@@ -200,11 +207,12 @@ Vanichchagorn-Howell, Cole
 <br>
 <br>
 
-**Previous Program for Successful Employment (PSE) Summer Interns:**
-
-Summer 2023:
+**Previous Program for Successful Employment (PSE) Interns:**
 <br>
-Britten, Dylan
+<br>
+Fuselier,Lauren: Summer 2023 - Fall 2023 
+<br>
+Britten, Dylan: Summer 2023
 <br>
 <br>
 
