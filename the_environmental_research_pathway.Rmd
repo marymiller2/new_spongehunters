@@ -1,0 +1,123 @@
+---
+title: "The Environmental Science Research Pathway at Baton Rouge Community College"
+---
+<style type="text/css">
+h1.title {
+  font-size: 45px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+
+</style>
+<center>
+The Environmental Science Research Pathway is built around the
+Louisiana Freshwater Sponge Project. This research
+project is a longitudinal study designed to continuously
+monitor the freshwater sponge population in Louisiana.
+</center>
+<br>
+<br>
+
+<center>
+![](drone_picture_lake_bistineaux.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: Some of the Louisiana Freshwater Sponge Hunters out field surveying. </font>
+</center>
+<br>
+<br>
+
+**The Pathway is designed to:**
+<br>
+- Increase scientific professional skills, including communication, literacy, and teamwork.
+<br>
+- Prepare students with technical skills to enter the job force.
+<br>
+- Provide high-wage employment while gaining skills.
+<br>
+- Grow the STEM field with diverse researchers.
+<br>
+<br>
+
+Pathway Participants will progress through 4-tiers:
+<br>
+_**1. Summer Internships:**_ Selected incoming freshmen participate in a summer research
+experience ($2500).
+<br>
+_**2. Louisiana Freshwater Sponge Project Interns:**_ Conduct research at BRCC while taking their
+first 30 hours of coursework ($15/hr).
+<br>
+_**3. Near-Peer Research Mentors:**_ After completing 30 hours of coursework and 500 research
+hours, interns will be promoted to mentors ($16/hr).
+<br>
+_**4. Externs:**_ Within 12 hours of graduation, students will be placed in an externship with a local
+environmental science agency ($18.50/hr).
+<br>
+<br>
+
+**Benefits!**
+<br>
+- Paid through continuous employment, participants will have the opportunity to gain
+transferable skills, including computer coding, microscopy, working with DNA, water
+analysis, field collection research techniques, and many more!
+<br>
+- Participate in all-expense-paid field research trips and conferences (hotel, meal per
+diem, registration, and airfare).
+<br>
+- Receive paid leadership training for near-peer mentors.
+<br>
+- Build your resume with skills and presentations.
+<br>
+- Network with four-year institutions and environmental science professionals.
+<br>
+<br>
+
+**Who is eligible to apply?**
+<br>
+- Incoming freshmen or current BRCC students who have completed fewer than 13 credit
+hours.
+<br>
+- Enroll at BRCC for Fall 2024.
+<br>
+- Major in: Associate of Science General Science, Associate of Science Louisiana Transfer,
+Associate of Science Pre-Engineering, or Associate of Science Computer Science.
+<br>
+- Interest in pursuing an environmental science career.
+<br>
+<br>
+
+**Application Process**
+<br>
+- Complete the online application at http://tiny.cc/g1vkwz by April 12th.
+<br>
+- Participate in a formal interview with the BRCC Pathway team.
+<br>
+- If accepted, you will receive a letter of acceptance by May 13th.
+<br>
+<br>
+
+**Requirements to stay in the Pathway**
+<br>
+- Participation in the 200-hour paid summer workshop (online and lab meetings).
+<br>
+- Maintain a minimum GPA of 2.0.
+<br>
+- Enroll in 9-15 credit hours each semester.
+<br>
+- Conduct 12-20 hours per week of paid research at BRCC.
+<br>
+- Participate in research outreach events.
+<br>
+- Contribute to a positive teamwork environment.
+<br>
+- Present research at local conferences.
+<br>
+<br>
+```{r echo = FALSE, out.width = "25%", fig.align = "center"}
+knitr::include_graphics("nsf.jpg")
+```
+
