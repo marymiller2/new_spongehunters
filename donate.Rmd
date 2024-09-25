@@ -50,13 +50,12 @@ _Current_
 NSF Funding Opportunity PD 21-7980. The Louisiana Freshwater Sponge Project: Developing an Environmental Science Undergraduate Research Pathway from Degree Entry to Workforce and Graduation Award # 2329630 (10/2023 - 9/2028)
 <br>
 <br>
-
+_Previous_
+<br>
+<br>
 ![](board_of_regents.jpg){width=25%}
 <br>
 BoRSF Department Enhancement Grant # ENH-DE-01 (07/2023 - 06/2024)
-<br>
-<br>
-_Previous_
 <br>
 <br>
 ![](capital_one.jpg){width=25%}
@@ -69,4 +68,3 @@ Capital One STEM for Good Grant
 MSEIP Department of Education Grant # P120A180060
 <br>
 <br>
-

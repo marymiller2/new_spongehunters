@@ -55,7 +55,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(sf)
-library(rgdal)
+library(terra)
 library(sp)
 library(readxl)
 library(ggspatial)
