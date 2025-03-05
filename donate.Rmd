@@ -1,5 +1,5 @@
 ---
-title: "Donations and Support"
+title: "Donations and Current Support"
 output: html_document
 ---
 <style type="text/css">
@@ -50,6 +50,15 @@ _Current_
 NSF Funding Opportunity PD 21-7980. The Louisiana Freshwater Sponge Project: Developing an Environmental Science Undergraduate Research Pathway from Degree Entry to Workforce and Graduation Award # 2329630 (10/2023 - 9/2028)
 <br>
 <br>
+
+![](Seagrant.png){width=25%}
+<br>
+<br>
+The Sea Grant funding opportunity is for the project titled "Sponges as Passive Samplers for Heavy Metals in Freshwater and Brackish Systems"
+PI: Stephanie Archer, Louisiana Universities Marine Consortium (LUMCON)
+Co-Principal Investigator (Co-PI) Mary Miller, Baton Rouge Community College, Department of Biology
+Co-PI: Phoebe Zito, University of New Orleans, Department of Environmental Chemistry (12/2024 - 2/2027)
+
 _Previous_
 <br>
 <br>

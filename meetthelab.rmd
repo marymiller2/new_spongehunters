@@ -26,17 +26,6 @@ The Louisiana Freshwater Sponge Research Team consists of biology, computer scie
 
 **Undergraduate Research Mentors:**
 <br>
-<br>
-![](rose_dawes.jpg){width=25%}
-<br>
-Rose Dawes
-<br>
-Fall 2023 -
-<br>
-"Hi! My name is Rose Dawes and I’m a computer science major here at BRCC. My role in the lab is to conduct data analysis using R Studio. I also assist with fieldwork. In the future, I plan on pursuing my bachelor’s degree in data science and/or environmental science."
-
-<br>
-<br>
 ![](lisa_dimaggio.jpg){width=25%}
 <br>
 Lisa DiMaggio
@@ -75,15 +64,7 @@ Summer 2023 -
 <br>
 "My name is Destiny Marvel. I am currently majoring in biological sciences. My role in the Louisiana Freshwater Sponge Project is sediment analysis, microscopy, and inputting data using the Mega-X software. Upon completion of my Associate of Science in Biological Sciences degree, I hope to pursue a career working as a lab technician in a chemical plant."
 
-<br>
-<br>
-![](abhi_mehrotra.jpeg){width=25%}
-<br>
-Abhi Mehrotra
-<br>
-Summer 2021 -
-<br>
-"I am incredibly fortunate to be part of The Louisiana Freshwater Sponge Project as the first computer science major. In this role, I manage the project’s website, operate drones, analyze and manage data, and conduct fieldwork. Additionally, I assist with overseeing other aspects of the research project. My long-term objective is to obtain an Associate of Science (AS) degree in Computer Science and a Louisiana Transfer, Associate of Science (ASLT) degree with a focus on biological sciences from BRCC. Afterward, I plan to pursue a Bachelor of Science (BS) degree in Coastal Environmental Science with a specialization in data science and a minor in biological sciences at Louisiana State University."
+
 <br>
 <br>
 
@@ -120,6 +101,16 @@ Summer 2024 -
 
 <br>
 <br>
+![](Candace.jpg){width=25%}
+<br>
+Candace Hill
+<br>
+Spring 2025 -
+<br>
+"Hi, my name is Candace Hill, and I am a second year at Baton Rouge Community College majoring in biological sciences. This spring semester, I am participating in the Louisiana Sea Grant Program, conducting research on water quality and how heavy metals affect sea sponge formation. I plan on transferring to LSU later this year and majoring in Nutritional Sciences. With my passion for health, research, and athletics, I plan on pursuing a career in the sports medical field."
+
+<br>
+<br>
 ![](christopher_hill.jpg){width=25%}
 <br>
 Christopher Hill
@@ -140,6 +131,22 @@ Summer 2024 -
 
 <br>
 <br>
+![](Jesse.jpg){width=25%}
+<br>
+Jesse Mehaffey
+<br>
+Spring 2025 -
+<br>
+"Hello! My name is Jesse Mehaffey and I am a Pre-Engineering student who is focusing on
+Biological Engineering. After I finish the Pre-Engineering program I want to transfer to LSU
+and double major in Biological Engineering and Applied Coastal and Environmental
+Science to reach my goal of being a Coastal and Environmental Engineer so I can help save
+the Earth in any way I can, engineering the path to a healthy future for people and for the
+Earth. Fun fact about me, I hold an immense amount of completely random knowledge in
+my head, so if you spend time with me, you’re bound to learn something new!"
+
+<br>
+<br>
 ![](geremiah_perkins.jpg){width=25%}
 <br>
 Geremiah Perkins
@@ -147,6 +154,16 @@ Geremiah Perkins
 Summer 2024 -
 <br>
 "My name is Geremiah Perkins, and I am majoring in Pre-Engineering with a concentration in Environmental Engineering. My role in the lab is sediment microscopy and assisting in sponge expeditions. I plan to transfer to LSU to further my education and hopefully obtain a job in water purification. A fun fact about me is that my favorite video game is Persona 4."
+
+<br>
+<br>
+![](Mallory.jpg){width=25%}
+<br>
+Mallory Rhymer
+<br>
+Spring 2025 -
+<br>
+"My name is Mallory Rhymer. I am currently studying Biological Science at Baton Rouge Community College with plans to transfer to a four-year university. I am passionate about studying ecosystems and the ways humans interact with nature. After completing my degree, I hope to work in ecology or outdoor education, combining scientific research with hands-on fieldwork. A fun fact about me is that I used to work as an outdoor educator in the Shenandoah valley."
 
 <br>
 <br>
@@ -169,9 +186,13 @@ Summer 2024 -
 <br>
 Cooke, Kenzie M.: Summer 2021 - Summer 2022
 <br>
+Dawes, Rose: Fall 2023 - Fall 2024
+<br>
 Glover, Tarry: Summer 2020 - Summer 2024
 <br>
 Heyer, Matthew: Fall 2019 - Summer 2021
+<br>
+Mehrotra, Abhi: Summer 2021 - Fall 2024
 <br>
 Viator, Ariel D.: Spring 2020 - Spring 2022
 <br>
