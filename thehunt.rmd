@@ -14,7 +14,7 @@ background-color: #B9F2FE
 </style>
 ```
 
-Currently, we have surveyed over 250 sites! The site map below is continuously updated with the sites surveyed in this study. Sites are further labeled with the observation of sponge presence (purple) or absence (orange).
+Currently, we have surveyed over 300 sites! The site map below is continuously updated with the sites surveyed in this study. Sites are further labeled with the observation of sponge presence (purple) or absence (orange).
 
 <br>
 

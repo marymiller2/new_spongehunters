@@ -16,68 +16,25 @@ The Louisiana Freshwater Sponge Research Team consists of biology, computer scie
 <br>
 <br>
 <center>
-![](fieldwork_group_updated.jpg){width=50%}
+![](lab2.jpg){width=50%}
 </center>
 <center>
-<font size="1"> Pictured above (from left to right): Hayley Howard, Dr. Stephanie Archer (LUMCON), Abhi Mehrotra, and Tarry Glover. </font>
+<font size="1"> Pictured above (from left to right): Selin Oral, Sarah Darst, Michael Reulet, Loc Nguyen, and Lisa DiMaggio. </font>
 </center>
 <br>
 <br>
 
 **Undergraduate Research Mentors:**
 <br>
-![](lisa_dimaggio.jpg){width=25%}
-<br>
-Lisa DiMaggio
-<br>
-Spring 2022 -
-<br>
-"My name is Lisa DiMaggio, and I've been a part of the lab since January 2022. I graduated with an Associate degree in Biological Science in May 2023 and transferred into the Nursing program. After receiving my ASN, my plan is to work on my BSN while pursuing a career in research nursing. A fun fact about me is that I was a hairstylist for nearly 20 years."
-
-<br>
-<br>
-![](hayley_howard.jpeg){width=25%}
-<br>
-Hayley Howard
-<br>
-Summer 2022 - 
-<br>
-"I am currently majoring in natural resource ecology and management and my role in the Louisiana Freshwater Sponge Project is water analysis. After completing my Associates of Science Transfer degree, I hope to attend LSU to continue my education in wildlife ecology. A fun fact about me is that I have been a vegetarian for about 14 years now."
-
-<br>
-<br>
-![](sydney_gemeinhardt.jpg){width=25%}
-<br>
-Sydney Gemeinhardt
-<br>
-Summer 2023 -
-<br>
-"My name is Sydney Gemeinhardt and I am currently majoring in biological sciences. My role in the lab is to digest and prepare sponges for spicule identification and test water quality. Once I finish my two years at BRCC, I plan to transfer to LSU to get my Bachelor of Science in Biological Sciences. My career aspirations are to work in a forensics lab as a criminalist."
-
-<br>
-<br>
-![](destiny_marvel.jpg){width=25%}
-<br>
-Destiny Marvel
-<br>
-Summer 2023 - 
-<br>
-"My name is Destiny Marvel. I am currently majoring in biological sciences. My role in the Louisiana Freshwater Sponge Project is sediment analysis, microscopy, and inputting data using the Mega-X software. Upon completion of my Associate of Science in Biological Sciences degree, I hope to pursue a career working as a lab technician in a chemical plant."
-
-
-<br>
-<br>
-
-**Undergraduate Student Researchers:**
-<br>
 <br>
 ![](juliana_coletti.jpg){width=25%}
 <br>
 Juliana Coletti
 <br>
-Summer 2024 -
+Molecular, Summer 2024 -
 <br>
-"Hello! My name is Juliana, and I'm currently majoring in Biological Sciences. My role in the Freshwater Sponge Project is DNA isolation and PCR amplification, but I also really enjoy fieldwork! Once I complete the Associate of Science Transfer degree at BRCC, I plan to transfer to LSU for a Bachelor of Science in Natural Resource Ecology and Management. My goal is to pursue a career in habitat restoration and wildlife ecology. I then plan to obtain a Master of Science in Renewable Natural Resources from LSU to help improve and protect ecosystems and their biodiversity. A fun fact about me is that I love Korean skincare."
+<br>
+"Hello! My name is Juliana, and I'm currently majoring in Biological Sciences. Once I complete the Associate of Science Transfer degree at BRCC, I plan to transfer to LSU for a Bachelor of Science in Natural Resource Ecology and Management. My goal is to pursue a career in habitat restoration and wildlife ecology. I then plan to obtain a Master of Science in Renewable Natural Resources from LSU to help improve and protect ecosystems and their biodiversity. A fun fact about me is that I love Korean skincare."
 
 <br>
 <br>
@@ -85,57 +42,28 @@ Summer 2024 -
 <br>
 Sarah Darst
 <br>
-Summer 2024 -
+Water Quality, Summer 2024 -
 <br>
-"I am Sarah Darst, a biology major at Baton Rouge Community College (BRCC). I'm thrilled to join the Louisiana Freshwater Sponge Project as a research intern. My primary role in the project involves testing water parameters, and I'm eager to participate in fieldwork as much as possible. After completing my studies at BRCC, I plan to transfer to Louisiana State University's College of the Coast and Environment. There, I'll pursue the 3+3 track for environmental law, aiming to obtain a Bachelor of Science in Coastal Environmental Science and subsequently, a law degree. Outside of academics, I'm a pet enthusiast with three cats and a dog who make excellent study companions."
+<br>
+"I am Sarah Darst, a biology major at Baton Rouge Community College (BRCC). After completing my studies at BRCC, I plan to transfer to Louisiana State University's College of the Coast and Environment. There, I'll pursue the 3+3 track for environmental law, aiming to obtain a Bachelor of Science in Coastal Environmental Science and subsequently, a law degree. Outside of academics, I'm a pet enthusiast with three cats and a dog who make excellent study companions."
 
-<br>
-<br>
-![](julia_gremillion.jpg){width=25%}
-<br>
-Julia Gremillion
-<br>
-Summer 2024 -
-<br>
-"My name is Julia Gremillion. I am a Pre-Engineering student with a concentration in Biological Engineering. I am part of a NASA-funded research grant where I will be studying biofilm formation and biodegradation of synthesized polymer-colloidal composites. I plan on transferring to LSU after I complete my Associate's degree. In the future, I hope to pursue a career in research."
-
-<br>
-<br>
-![](Candace.jpg){width=25%}
-<br>
-Candace Hill
-<br>
-Spring 2025 -
-<br>
-"Hi, my name is Candace Hill, and I am a second year at Baton Rouge Community College majoring in biological sciences. This spring semester, I am participating in the Louisiana Sea Grant Program, conducting research on water quality and how heavy metals affect sea sponge formation. I plan on transferring to LSU later this year and majoring in Nutritional Sciences. With my passion for health, research, and athletics, I plan on pursuing a career in the sports medical field."
-
-<br>
 <br>
 ![](christopher_hill.jpg){width=25%}
 <br>
-Christopher Hill
+Kit Hill
 <br>
-Summer 2024 -
-<br>
-"I am currently majoring in both Computer Science and Biological Sciences. In the Louisiana Freshwater Sponge Project, I serve in a data science role. After completing my associate degrees, I plan to transfer to LSU to study Data Science and then pursue a career in either bioinformatics or computational biology. Two fun facts about me: I'm a vegan and a member of Baton Rouge's Golden Guys!"
-
+Data Science, Summer 2024 -
 <br>
 <br>
-![](marquis_mcquirter.jpg){width=25%}
-<br>
-Marquis McQuirter
-<br>
-Summer 2024 -
-<br>
-"I am Marquis McQuirter, and I am majoring in Veterinary Technology. My role in the Louisiana Freshwater Sponge Project is sediment analysis. After completing my Associate of Science Transfer degree, I will go to either Southern University or Northwestern State University to further my education in veterinary technology. In the future, I hope to open my own veterinary clinic."
-
+"I’m majoring in both Computer Science and Biological Sciences at BRCC. After completing my associate degrees at BRCC, I’ll transfer to LSU’s College of the Coast and study both coastal environmental science and computer science. In the future, I’d love a career in computational biology utilizing bioinformatics. A fun fact about me: I’ve been vegan since 2017!"
 <br>
 <br>
-![](Jesse.jpg){width=25%}
+![](Jesse1.jpg){width=25%}
 <br>
 Jesse Mehaffey
 <br>
-Spring 2025 -
+Sediment Microscopy, Spring 2025 -
+<br>
 <br>
 "Hello! My name is Jesse Mehaffey and I am a Pre-Engineering student who is focusing on
 Biological Engineering. After I finish the Pre-Engineering program I want to transfer to LSU
@@ -147,36 +75,119 @@ my head, so if you spend time with me, you’re bound to learn something new!"
 
 <br>
 <br>
-![](geremiah_perkins.jpg){width=25%}
+![](gere1.jpg){width=25%}
 <br>
 Geremiah Perkins
 <br>
-Summer 2024 -
+Field Expert and Sediment Microscopy, Summer 2024 -
+<br>
 <br>
 "My name is Geremiah Perkins, and I am majoring in Pre-Engineering with a concentration in Environmental Engineering. My role in the lab is sediment microscopy and assisting in sponge expeditions. I plan to transfer to LSU to further my education and hopefully obtain a job in water purification. A fun fact about me is that my favorite video game is Persona 4."
-
 <br>
 <br>
-![](Mallory.jpg){width=25%}
+![](Mallory1.jpg){width=25%}
 <br>
 Mallory Rhymer
 <br>
-Spring 2025 -
+Field Expert and Water Quailty, Spring 2025 -
+<br>
 <br>
 "My name is Mallory Rhymer. I am currently studying Biological Science at Baton Rouge Community College with plans to transfer to a four-year university. I am passionate about studying ecosystems and the ways humans interact with nature. After completing my degree, I hope to work in ecology or outdoor education, combining scientific research with hands-on fieldwork. A fun fact about me is that I used to work as an outdoor educator in the Shenandoah valley."
-
 <br>
 <br>
 ![](nicholas_teegarden.jpg){width=25%}
 <br>
 Nicholas Teegarden
 <br>
-Summer 2024 -
+Field Expert and Data Science, Summer 2024 -
+<br>
 <br>
 "My name is Nicholas Teegarden, and I am grateful for the opportunity to work with The Louisiana Freshwater Sponge Project. My role in the lab is preparing spicule samples for identification. I am currently majoring in General Science at BRCC and will be transferring to LSU's College of the Coast, majoring in Natural Resource Ecology and Management. Upon graduation, I hope to work in an ecology lab, contributing to the protection and conservation of Louisiana's beautiful ecosystems."
 <br>
 <br>
-
+**Undergraduate Student Researchers:**
+<br>
+<br>
+![](abbi.jpg){width=25%}
+<br>
+Abigail Curl
+<br>
+Scanning Electron Microscopy, Summer 2025 -
+<br>
+<br>
+"I am currently pursuing an associate’s degree in Computer Science. After completing my degree, I plan to transfer to Louisiana State University to earn a bachelor’s degree in Computer Science."
+<br>
+<br>
+![](alejandro.jpg){width=25%}
+<br>
+Alejandro Jose
+<br>
+Nanoplastic studies, Summer 2025 -
+<br>
+<br>
+"In the future, I plan to transfer to Tulane or Cornell after obtaining my associate's degree. I plan to complete my undergraduate degree in Biochemistry or Biomedical Engineering. In the near future, I plan to open my own dermatology clinics in my hometown and Mexico City. During my free time, I enjoy reading books, playing tennis, and traveling the world."
+<br>
+<br>
+![](oscar.jpg){width=25%}
+<br>
+Oscar Mendoza
+<br>
+Sediment Processing and molecular, Summer 2025 -
+<br>
+<br>
+"I am working on an associate's degree in science at BBRC. After I get my associates, I plan to transfer to LSU and pursue a bachelor's in biological engineering. My dream job after I get my bachelor's would be to work with CRISPR and use it to develop new therapies for genetic diseases, cancers, and infectious diseases."
+<br>
+<br>
+![](loc.jpg){width=25%}
+<br>
+Loc Nguyen
+<br>
+Data Science, Summer 2025 -
+<br>
+<br>
+"I'm currently a sophomore at Baton Rouge Community College. I'm excited about my academic journey, as I'm planning to transfer to Louisiana State University to pursue a degree in Data Science, with a particular focus on Artificial Intelligence and Machine Learning. I love camping and hiking, and spending time immersed in nature has truly made me appreciate its beauty and tranquility. It's a fantastic way to clear my head and recharge, and I find a lot of peace in the quiet of the wilderness."
+<br>
+<br>
+![](selin.jpg){width=25%}
+<br>
+Selin Oral
+<br>
+Molecular, Summer 2025 -
+<br>
+<br>
+"My current major at BRCC is biological sciences. After I complete my credits here, I plan to transfer to LSU to get my Bachelor degree in veterinary medicine. Fun fact about me: I was a professional finswimmer for 15 years and won 2nd and 3rd place medals in my home country, so I am interested in healthy eating and cooking. Although I am no longer a finswimmer, I still enjoy doing physical activities, especially yoga."
+<br>
+<br>
+![](miker.jpg){width=25%}
+<br>
+Michael Reulet
+<br>
+Field expert and sponge ID microscopy, summer 2025 -
+<br>
+<br>
+"I am currently pursuing a degree in General Science Transfer with coursework in Plant and soil Science focusing on Agriculture at Louisiana State University. The NSF sponsored program at Baton Rouge Community College under Dr. Miller has provided a wonderful opportunity for practical application of concepts learned during my course of study as well as participation in formal scientific research. I am also a member of the Conservation Corps BREC."
+<br>
+<br>
+![](brittany.jpg){width=25%}
+<br>
+Brittany Tate
+<br>
+Data Science, Summer 2025 -
+<br>
+<br>
+"I am a Computer Science major at BRCC. My role in the Louisiana Freshwater Sponge Project is data science and analytics.  After receiving my Associate of Science degree, I plan to attend LSU's College of Engineering and Computer Science, to obtain my Bachelor's of Science in Computer Science with a concentration in Data Science and Analytics. Afterwards, I plan to attend a JD/PhD program, to align data science and law through interdisciplinary research."
+<br>
+<br>
+![](tran.jpeg){width=25%}
+<br>
+Tran Vi
+<br>
+Scanning Electron Microscopy and Water Quality, Summer 2025 -
+<br>
+<br>
+"I am currently majoring in Physical Sciences at BRCC. I am a member of the Louisiana Sea Grant Program, where I research the impact of heavy metals on water systems and their contribution to the malformation of freshwater sponges. After completing the Associate’s degree, I plan to transfer to LSU to earn a Bachelor’s degree in a STEM field. In the future, I hope to gain hands-on experience through both laboratory and field work as I want to pursue a career in science."
+<br>
+<br>
 **The Program for Successful Employment (PSE) Interns:** The Program for Successful Employment (PSE) is a two-year vocational training program for adults with autism and/or other cognitive differences. The program combines academic and job skills training with externship opportunities in regional businesses. [Click here](https://www.mybrcc.edu/pse/index.php) to learn more information about the program.
 <br>
 <br>
@@ -188,9 +199,21 @@ Cooke, Kenzie M.: Summer 2021 - Summer 2022
 <br>
 Dawes, Rose: Fall 2023 - Fall 2024
 <br>
+DiMaggio, Lisa: Spring 2022-Summer 2025
+<br>
+Gemeinhardt, Sydney: Summer 2023 - Spring 2025
+<br>
 Glover, Tarry: Summer 2020 - Summer 2024
 <br>
+Gremillion, Julia: Summer 2024 - Summer 2025
+<br>
 Heyer, Matthew: Fall 2019 - Summer 2021
+<br>
+Howard, Hayley: Summer 2022 - Summer 2025
+<br>
+Marvel, Destiny: Summer 2023 - Spring 2025
+<br>
+Mcquirter, Marquis: Summer 2024 - Summer 2025
 <br>
 Mehrotra, Abhi: Summer 2021 - Fall 2024
 <br>
@@ -216,6 +239,8 @@ Ciarlini, Duda: Fall 2021
 Francois, Jaylon: Fall 2022
 <br>
 Henriquez, Axel: Spring 2022 - Summer 2022
+<br>
+Hill, Candace: Spring 2025
 <br>
 Johnson, Samuel J.: Fall 2021 - Spring 2022
 <br>
