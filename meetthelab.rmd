@@ -85,7 +85,7 @@ Field Expert and Sediment Microscopy, Summer 2024 -
 "My name is Geremiah Perkins, and I am majoring in Pre-Engineering with a concentration in Environmental Engineering. My role in the lab is sediment microscopy and assisting in sponge expeditions. I plan to transfer to LSU to further my education and hopefully obtain a job in water purification. A fun fact about me is that my favorite video game is Persona 4."
 <br>
 <br>
-![](Mallory1.jpg){width=25%}
+![](mallory1.jpg){width=25%}
 <br>
 Mallory Rhymer
 <br>
@@ -108,7 +108,7 @@ Field Expert and Data Science, Summer 2024 -
 **Undergraduate Student Researchers:**
 <br>
 <br>
-![](abbi.jpg){width=25%}
+![](Abbi.jpg){width=25%}
 <br>
 Abigail Curl
 <br>
@@ -118,7 +118,7 @@ Scanning Electron Microscopy, Summer 2025 -
 "I am currently pursuing an associate’s degree in Computer Science. After completing my degree, I plan to transfer to Louisiana State University to earn a bachelor’s degree in Computer Science."
 <br>
 <br>
-![](alejandro.jpg){width=25%}
+![](Alejandro.jpg){width=25%}
 <br>
 Alejandro Jose
 <br>
@@ -128,7 +128,7 @@ Nanoplastic studies, Summer 2025 -
 "In the future, I plan to transfer to Tulane or Cornell after obtaining my associate's degree. I plan to complete my undergraduate degree in Biochemistry or Biomedical Engineering. In the near future, I plan to open my own dermatology clinics in my hometown and Mexico City. During my free time, I enjoy reading books, playing tennis, and traveling the world."
 <br>
 <br>
-![](oscar.jpg){width=25%}
+![](Oscar.jpg){width=25%}
 <br>
 Oscar Mendoza
 <br>
@@ -138,7 +138,7 @@ Sediment Processing and molecular, Summer 2025 -
 "I am working on an associate's degree in science at BBRC. After I get my associates, I plan to transfer to LSU and pursue a bachelor's in biological engineering. My dream job after I get my bachelor's would be to work with CRISPR and use it to develop new therapies for genetic diseases, cancers, and infectious diseases."
 <br>
 <br>
-![](loc.jpg){width=25%}
+![](Loc.jpg){width=25%}
 <br>
 Loc Nguyen
 <br>
@@ -148,7 +148,7 @@ Data Science, Summer 2025 -
 "I'm currently a sophomore at Baton Rouge Community College. I'm excited about my academic journey, as I'm planning to transfer to Louisiana State University to pursue a degree in Data Science, with a particular focus on Artificial Intelligence and Machine Learning. I love camping and hiking, and spending time immersed in nature has truly made me appreciate its beauty and tranquility. It's a fantastic way to clear my head and recharge, and I find a lot of peace in the quiet of the wilderness."
 <br>
 <br>
-![](selin.jpg){width=25%}
+![](Selin.jpg){width=25%}
 <br>
 Selin Oral
 <br>
@@ -158,7 +158,7 @@ Molecular, Summer 2025 -
 "My current major at BRCC is biological sciences. After I complete my credits here, I plan to transfer to LSU to get my Bachelor degree in veterinary medicine. Fun fact about me: I was a professional finswimmer for 15 years and won 2nd and 3rd place medals in my home country, so I am interested in healthy eating and cooking. Although I am no longer a finswimmer, I still enjoy doing physical activities, especially yoga."
 <br>
 <br>
-![](miker.jpg){width=25%}
+![](MikeR.jpg){width=25%}
 <br>
 Michael Reulet
 <br>
@@ -168,7 +168,7 @@ Field expert and sponge ID microscopy, summer 2025 -
 "I am currently pursuing a degree in General Science Transfer with coursework in Plant and soil Science focusing on Agriculture at Louisiana State University. The NSF sponsored program at Baton Rouge Community College under Dr. Miller has provided a wonderful opportunity for practical application of concepts learned during my course of study as well as participation in formal scientific research. I am also a member of the Conservation Corps BREC."
 <br>
 <br>
-![](brittany.jpg){width=25%}
+![](Brittany.jpg){width=25%}
 <br>
 Brittany Tate
 <br>
@@ -178,7 +178,7 @@ Data Science, Summer 2025 -
 "I am a Computer Science major at BRCC. My role in the Louisiana Freshwater Sponge Project is data science and analytics.  After receiving my Associate of Science degree, I plan to attend LSU's College of Engineering and Computer Science, to obtain my Bachelor's of Science in Computer Science with a concentration in Data Science and Analytics. Afterwards, I plan to attend a JD/PhD program, to align data science and law through interdisciplinary research."
 <br>
 <br>
-![](tran.jpeg){width=25%}
+![](Tran.jpeg){width=25%}
 <br>
 Tran Vi
 <br>
