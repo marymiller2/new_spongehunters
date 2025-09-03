@@ -21,19 +21,19 @@ environment attached to rocks.
 <br>
 
 <center>
-![](Hb_on_substrate.JPG){width=75%}
+![](Hb_on_substrate.jpg){width=75%}
 </center>
 
 <br>
 
 <center>
-![](Hb_spicules.JPG){width=75%}
+![](Hb_spicules.jpg){width=75%}
 </center>
 
 <br>
 
 <center>
-![](Hb_SEM_1.JPG){width=75%}
+![](Hb_SEM_1.jpg){width=75%}
 </center>
 
 <center>
